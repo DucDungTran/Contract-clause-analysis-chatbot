@@ -66,4 +66,4 @@ Note: This tool supports—not replaces—professional judgment. Future improvem
 - [Streamlit](https://streamlit.io/)
 - [Cross Validation Techniques](https://machinelearningmastery.com/k-fold-cross-validation/)
 - [Fine Tuned Legal-Bert](https://huggingface.co/Prakarsha01/fine-tuned-legal-bert-5folds)
-- [RoBERTa] (https://huggingface.co/docs/transformers/en/model_doc/roberta)
+- [RoBERTa](https://huggingface.co/docs/transformers/en/model_doc/roberta)
